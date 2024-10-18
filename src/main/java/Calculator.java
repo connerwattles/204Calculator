@@ -1,5 +1,3 @@
-// This is a test comment
-// Another comment
 import java.util.UUID;
 class Calculator {
 
